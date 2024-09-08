@@ -35,8 +35,13 @@ Logistic Regression, Decision Tree, Random Forest, Gradient Boost, Extra Tree, B
 
  From our Exploratory Data Analysis we have found the following results:
  - Younger patients tend to be associated with a higher likelihood of no-shows could be attributed to various factors.
+
 ![App Screenshot](https://github.com/harrshyadav24/Analyzing-Medical-Appointment-No-Shows/blob/main/Screenshot%202024-09-09%20010854.png)
+
 - The observation that patients with a waiting time of 0 days tend to show up for their appointments suggests that same-day or immediate appointments are associated with higher attendance rates.
+
 ![App Screenshot](https://github.com/harrshyadav24/Analyzing-Medical-Appointment-No-Shows/blob/main/Screenshot%202024-09-09%20011143.png)
+
 - Surprisingly, the finding that patients who receive SMS reminders tend to no-show suggests that the effectiveness of SMS reminders might not be as straight forward as assumed.
+
 ![App Screenshot](https://github.com/harrshyadav24/Analyzing-Medical-Appointment-No-Shows/blob/main/Screenshot%202024-09-09%20011213.png)
