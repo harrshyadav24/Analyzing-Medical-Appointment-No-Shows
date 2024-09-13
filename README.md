@@ -31,6 +31,8 @@ Ensemble learning is applied to combine the strengths of multiple individual mod
 
 Logistic Regression, Decision Tree, Random Forest, Gradient Boost, Extra Tree, Bagging, AdaBoost, Ridge Classifier, K-Nearest Neighbors (KNN), XGBoost, Naive Bayes from these, the top 5 models (based on precision and recall) were selected and ensembled for improved performance.
 
+![App Screenshot](https://github.com/harrshyadav24/Analyzing-Medical-Appointment-No-Shows/blob/main/Screenshot 2024-09-13 103349.png)
+
 ## Results
 
  From our Exploratory Data Analysis we have found the following results:
